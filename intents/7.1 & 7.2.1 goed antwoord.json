@@ -1,0 +1,72 @@
+{
+  "id": "84c291c3-ebe8-487f-8f63-44631eed9f24",
+  "name": "7.1 \u0026 7.2.1 goed antwoord",
+  "auto": true,
+  "contexts": [
+    "gevraagd-van-wie-eerste-brief"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gevraagd-wat-eet-eekhoorn",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "naam",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4b77b096-5aa7-4617-baf5-3c15e1077ada",
+          "required": true,
+          "dataType": "@eekhoorn",
+          "name": "eekhoorn",
+          "value": "$eekhoorn",
+          "prompts": [
+            {
+              "lang": "nl",
+              "value": "Oei, volgens mij is de brief voor iemand anders. Een diertje dat heel erg van eikeltjes eten houdt! Weet je nu voor wie de brief is?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003e dat klopt! \u003cbreak time\u003d\"1s\" /\u003eDe eerste brief is voor Eekhoorn.  \u003cbreak time\u003d\"1s\" /\u003eOuder van #naam.name, kunt u zien wat de Eekhoorn aan het eten is? \u003c/speak\u003e",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "dat klopt! De eerste brief is voor Eekhoorn.  Ouder van #naam.name, kunt u zien wat de Eekhoorn aan het eten is?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,293 @@
+[
+  {
+    "id": "b14dc4fc-22cf-4756-9219-d7b1e6581a77",
+    "data": [
+      {
+        "text": "drie",
+        "alias": "aantalbrieven",
+        "meta": "@aantalbrieven",
+        "userDefined": false
+      },
+      {
+        "text": " brieven op tafel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92c0eab7-9a8a-4a83-b46f-0f098748938f",
+    "data": [
+      {
+        "text": "ik zie ",
+        "userDefined": false
+      },
+      {
+        "text": "drie",
+        "alias": "aantalbrieven",
+        "meta": "@aantalbrieven",
+        "userDefined": false
+      },
+      {
+        "text": " brieven op tafel liggen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "450fa8c2-ded0-43b2-b07f-5b21c2c173cf",
+    "data": [
+      {
+        "text": "ik zie ",
+        "userDefined": false
+      },
+      {
+        "text": "drie",
+        "alias": "aantalbrieven",
+        "meta": "@aantalbrieven",
+        "userDefined": false
+      },
+      {
+        "text": " brieven op ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " tafel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8deb275-c517-49ed-b403-5ffb6ee79a88",
+    "data": [
+      {
+        "text": "ik zie ",
+        "userDefined": false
+      },
+      {
+        "text": "drie",
+        "alias": "aantalbrieven",
+        "meta": "@aantalbrieven",
+        "userDefined": false
+      },
+      {
+        "text": " brieven",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1e1d07b4-490b-43fa-8029-c67065bab4de",
+    "data": [
+      {
+        "text": "drie",
+        "alias": "aantalbrieven",
+        "meta": "@aantalbrieven",
+        "userDefined": false
+      },
+      {
+        "text": " brieven",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "763f123c-3652-4c5b-a1e7-85b5d4df6321",
+    "data": [
+      {
+        "text": "het zijn er ",
+        "userDefined": false
+      },
+      {
+        "text": "drie",
+        "alias": "aantalbrieven",
+        "meta": "@aantalbrieven",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8543f93-501f-4fef-ab63-13735f67ca93",
+    "data": [
+      {
+        "text": "Ik zie ",
+        "userDefined": false
+      },
+      {
+        "text": "drie",
+        "alias": "aantalbrieven",
+        "meta": "@aantalbrieven",
+        "userDefined": false
+      },
+      {
+        "text": " brieven liggen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3dfc7cde-8617-48f1-8354-ed01e0be6296",
+    "data": [
+      {
+        "text": "1",
+        "alias": "lagerdandrie",
+        "meta": "@lagerdandrie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79113cde-ff38-43b6-80dd-d395f0ae7ec4",
+    "data": [
+      {
+        "text": "nul",
+        "alias": "lagerdandrie",
+        "meta": "@lagerdandrie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e03bfcd6-ed8d-41a3-822b-7e930e2c7788",
+    "data": [
+      {
+        "text": "twee",
+        "alias": "lagerdandrie",
+        "meta": "@lagerdandrie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5904c0ff-bcb9-475e-9205-f6d66380bcaf",
+    "data": [
+      {
+        "text": "2",
+        "alias": "lagerdandrie",
+        "meta": "@lagerdandrie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "613f0a87-f997-495c-83ba-8e3be3613187",
+    "data": [
+      {
+        "text": "0",
+        "alias": "lagerdandrie",
+        "meta": "@lagerdandrie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3aaed01d-cabb-4463-9a7d-1a3818e1ae30",
+    "data": [
+      {
+        "text": "9",
+        "alias": "nummer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f7f6c28-0878-4f83-9b97-b3c2bfe37771",
+    "data": [
+      {
+        "text": "7",
+        "alias": "nummer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b285681a-4581-4be4-aaf5-07017c12ba10",
+    "data": [
+      {
+        "text": "5",
+        "alias": "nummer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "60ccfbf1-578b-4674-9bcd-6a5473512f32",
+    "data": [
+      {
+        "text": "3",
+        "alias": "aantalbrieven",
+        "meta": "@aantalbrieven",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ac1e48b-6f12-4a8a-a595-44e17dc4aedd",
+    "data": [
+      {
+        "text": "drie",
+        "alias": "aantalbrieven",
+        "meta": "@aantalbrieven",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

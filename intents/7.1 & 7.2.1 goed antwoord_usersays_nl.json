@@ -1,0 +1,115 @@
+[
+  {
+    "id": "6b070599-3e63-4f15-bf64-a40a2b86e96f",
+    "data": [
+      {
+        "text": "de ",
+        "userDefined": false
+      },
+      {
+        "text": "eekhoorn",
+        "alias": "eekhoorn",
+        "meta": "@eekhoorn",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eaa9f01f-8fcc-4027-b7fa-5892ee1a3558",
+    "data": [
+      {
+        "text": "eekhoorn",
+        "alias": "eekhoorn",
+        "meta": "@eekhoorn",
+        "userDefined": true
+      },
+      {
+        "text": " krijgt ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " brief",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc7880b9-b1c3-4400-98ac-2ab536d844a2",
+    "data": [
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " brief is voor ",
+        "userDefined": false
+      },
+      {
+        "text": "eekhoorn",
+        "alias": "eekhoorn",
+        "meta": "@eekhoorn",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1f20761-8cb1-496e-8e9d-516c665f4e69",
+    "data": [
+      {
+        "text": "hij gaat ",
+        "userDefined": false
+      },
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " brief aan ",
+        "userDefined": false
+      },
+      {
+        "text": "eekhoorn",
+        "alias": "eekhoorn",
+        "meta": "@eekhoorn",
+        "userDefined": true
+      },
+      {
+        "text": " geven",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93d1ed57-5fa1-42a4-84d1-37f4e72d8732",
+    "data": [
+      {
+        "text": "eekhoorn",
+        "alias": "eekhoorn",
+        "meta": "@eekhoorn",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

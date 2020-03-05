@@ -1,0 +1,53 @@
+{
+  "id": "e09c01bf-c59b-43e4-bb20-663a0c179c68",
+  "name": "3.2 fout antwoord",
+  "auto": true,
+  "contexts": [
+    "gevraagd-wat-doet-beer"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gevraagd-wat-voor-brieven",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "gevraagd-tweede-keer-hoeveel-brieven",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003e Dat zou ook kunnen, maar Beer is brieven aan het schrijven. \u003cbreak time\u003d\"1s\"/\u003e Wat voor brieven denk je dat het zijn? \u003c/speak\u003e",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Dat zou ook kunnen, maar Beer is brieven aan het schrijven. Wat voor brieven denk je dat het zijn?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

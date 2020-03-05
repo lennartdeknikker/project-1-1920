@@ -1,0 +1,47 @@
+{
+  "id": "1005a221-3ac6-4c9c-adf3-266a50820572",
+  "name": "9.2 fout antwoord",
+  "auto": true,
+  "contexts": [
+    "gevraagd-hoeveel-brieven-over"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gevraagd-tweede-keer-hoeveel-brieven-over",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "gevraagd-hoeveel-brieven-over",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003e Het is iets meer of minder dan dat.\u003cbreak time\u003d\"2s\"/\u003e Kan je het nog een keer tellen?\u003c/speak\u003e",
+          "displayText": ""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

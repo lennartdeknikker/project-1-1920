@@ -1,0 +1,9 @@
+{
+  "id": "8fa604de-fefd-4142-840f-9d0e6fca5c61",
+  "name": "schrijven",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

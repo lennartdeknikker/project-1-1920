@@ -1,0 +1,53 @@
+{
+  "id": "02d9e9c5-1c1b-46ee-87ba-96b31cf8fcd1",
+  "name": "8.2 fout antwoord",
+  "auto": true,
+  "contexts": [
+    "gevraagd-wat-eet-eekhoorn"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gevraagd-tweede-keer-wat-eet-eekhoorn",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "gevraagd-wat-eet-eekhoorn",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003e Nee,\u003cbreak time\u003d\"1s\"/\u003e  kijk nog eens goed. \u003cbreak time\u003d\"1s\"/\u003e Wat eekhoorn eet valt meestal van een boom.\u003cbreak time\u003d\"1s\"/\u003e Weet u nu wat Eekhoorn eet?\u003c/speak\u003e",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "188ca3a5-a970-45a6-8ba9-02021cc72d7d",
+  "name": "9.1 goed antwoord - aanvulling",
+  "auto": true,
+  "contexts": [
+    "gevraagd-hoeveel-brieven-over"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "49e11679-2c79-4c77-bc7c-e847d640e9ef",
+          "required": false,
+          "dataType": "@aantalover",
+          "name": "aantalover",
+          "value": "$aantalover",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003e Ja. Er zijn er nog $aantalover over. \u003cbreak time\u003d\"2s\"/\u003e Laten we snel verder lezen om te kijken\nvoor wie de andere twee brieven zijn. \u003c/speak\u003e",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,103 @@
+{
+  "id": "27b164cd-3c8b-4621-b8c8-527fd167cf9d",
+  "name": "5.1 \u0026 5.2.1 goed antwoord",
+  "auto": true,
+  "contexts": [
+    "gevraagd-hoeveel-brieven"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gevraagd-welke-spullen-meer",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a62b6684-bbb6-4590-a16e-721adc9ba238",
+          "required": false,
+          "dataType": "@aantalbrieven",
+          "name": "aantalbrieven",
+          "value": "$aantalbrieven",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "754619b4-daad-4b22-bf11-e019960524e9",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "nummer",
+          "value": "$nummer",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7106eaa9-229a-47db-852a-fb0305b2d756",
+          "required": false,
+          "dataType": "@lagerdandrie",
+          "name": "lagerdandrie",
+          "value": "$lagerdandrie",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "items": [
+            {
+              "textToSpeech": "",
+              "ssml": "\u003cspeak\u003eHeel goed! Er liggen inderdaad $aantalbrieven brieven op de tafel van Beer. \u003cbreak time\u003d\"1s\"/\u003eEr staan nog meer spullen op de tafel van Beer. Welke spullen zie je?\u003c/speak\u003e",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "",
+              "ssml": "\u003cspeak\u003eOh, er liggen iets minder dan $nummer brieven\nop de tafel. \u003cbreak time\u003d\"1s\"/\u003e Kijk nog eens goed naar de\ntafel. Hoeveel brieven zie je?\u003c/speak\u003e",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "",
+              "ssml": "\u003cspeak\u003eOh, er liggen $lagerdandrie\nop de tafel. \u003cbreak time\u003d\"1s\"/\u003e Kijk nog eens goed naar de\ntafel. Hoeveel brieven zie je?\u003c/speak\u003e",
+              "displayText": ""
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": [
+            "Heel goed! Er liggen inderdaad $aantalbrieven brieven op de tafel van Beer. Er staan nog meer spullen op de tafel van Beer. Welke spullen zie je?",
+            "Oh, er liggen iets minder dan $nummer brieven\nop de tafel. Kijk nog eens goed naar de\ntafel. Hoeveel brieven zie je?",
+            "Oh, er liggen $lagerdandrie\nop de tafel. Kijk nog eens goed naar de\ntafel. Hoeveel brieven zie je?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

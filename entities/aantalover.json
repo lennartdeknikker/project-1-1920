@@ -1,0 +1,9 @@
+{
+  "id": "ae5533d0-a3f4-418d-986c-f56755175502",
+  "name": "aantalover",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

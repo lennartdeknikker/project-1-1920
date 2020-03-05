@@ -1,0 +1,28 @@
+[
+  {
+    "value": "meer dan twee brieven",
+    "synonyms": [
+      "twee",
+      "two",
+      "2"
+    ]
+  },
+  {
+    "value": "meer brieven",
+    "synonyms": [
+      "1",
+      "een",
+      "één",
+      "one"
+    ]
+  },
+  {
+    "value": "meer dan 0 brieven",
+    "synonyms": [
+      "0",
+      "nul",
+      "geen",
+      "zero"
+    ]
+  }
+]

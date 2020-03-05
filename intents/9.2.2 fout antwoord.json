@@ -1,0 +1,36 @@
+{
+  "id": "cbb17be8-a112-4a37-b9cf-5670a1ca4ba5",
+  "name": "9.2.2 fout antwoord",
+  "auto": true,
+  "contexts": [
+    "gevraagd-tweede-keer-hoeveel-brieven-over"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eNee joh\u003cbreak time\u003d\"1s\"/\u003e er zijn nog 2 brieven over van de originele 3!\u003c/speak\u003e",
+          "displayText": ""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

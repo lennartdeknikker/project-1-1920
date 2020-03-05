@@ -1,0 +1,48 @@
+{
+  "id": "76ffa144-54a6-470e-9e79-dc86d2425229",
+  "name": "6.2 fout antwoord",
+  "auto": true,
+  "contexts": [
+    "gevraagd-welke-spullen-meer"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gevraagd-van-wie-eerste-brief",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003e Oei! Volgens mij staat er een foto, bloemen en een inktpot op de tafel.\u003cbreak time\u003d\"1s\"/\u003e \u003caudio src\u003d\"https://actions.google.com/sounds/v1/foley/walk_on_gravel.ogg\"\u003e\u003c/audio\u003e\nHoor je dat? \u003cbreak time\u003d\"1s\"/\u003e\nHet zijn voetstappen van Beer. Hij gaat de eerste brief wegbrengen. \u003cbreak time\u003d\"1s\"/\u003e #naam.name, maak het deurtje maar open. \u003cbreak time\u003d\"2s\"/\u003eKan jij zien voor wie de eerste brief is?\n\u003c/speak\u003e",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

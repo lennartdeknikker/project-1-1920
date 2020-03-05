@@ -1,0 +1,79 @@
+{
+  "id": "5cfe9e55-fb08-41cb-b750-f3ef1b2e59ac",
+  "name": "9.1 \u0026 9.2.1 goed antwoord",
+  "auto": true,
+  "contexts": [
+    "gevraagd-hoeveel-brieven-over"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "26704cfd-3503-4131-8512-210f0d9f2740",
+          "required": false,
+          "dataType": "@minderdantwee",
+          "name": "minderdantwee",
+          "value": "$minderdantwee",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "3ffac095-59da-4778-ab06-6beffc8f51df",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "items": [
+            {
+              "textToSpeech": "",
+              "ssml": "\u003cspeak\u003eHet is iets meer dan $minderdantwee .\u003cbreak time\u003d\"2s\"/\u003e Kan je het\nnog een keer tellen?\u003c/speak\u003e",
+              "displayText": ""
+            },
+            {
+              "textToSpeech": "",
+              "ssml": "\u003cspeak\u003eHet is iets minder dan $number . \u003cbreak time\u003d\"2s\"/\u003e Kan je het\nnog een keer tellen?\u003c/speak\u003e",
+              "displayText": ""
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": [
+            "Het is iets meer dan $minderdantwee . Kan je het\nnog een keer tellen?",
+            "Het is iets minder dan $number . Kan je het\nnog een keer tellen?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

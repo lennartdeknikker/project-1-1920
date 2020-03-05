@@ -1,0 +1,9 @@
+{
+  "id": "f7f5ca26-1d58-4296-bddb-1deabde9bc61",
+  "name": "eekhoorn",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

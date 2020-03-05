@@ -1,0 +1,49 @@
+{
+  "id": "ef580fec-6929-4ca2-9e39-2585c30964af",
+  "name": "8.2.2 fout antwoord",
+  "auto": true,
+  "contexts": [
+    "gevraagd-tweede-keer-wat-eet-eekhoorn",
+    "naam"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gevraagd-hoeveel-brieven-over",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eVolgens mij eet de eekhoorn een eikeltje. \u003cbreak time\u003d\"1s\"/\u003e Dat valt in de smaak! \u003cbreak time\u003d\"1s\"/\u003e Ouder van #naam.name, \u003cbreak time\u003d\"1s\"/\u003e  Weet u hoeveel brieven Beer nu nog over heeft?\u003c/speak\u003e",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

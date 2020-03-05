@@ -1,0 +1,9 @@
+{
+  "id": "e3a00714-646a-466f-b577-f4e8bf0bd777",
+  "name": "aantalbrieven",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

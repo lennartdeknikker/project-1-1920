@@ -1,0 +1,44 @@
+[
+  {
+    "id": "9be021fe-af8f-4531-9760-1d50e16b79e2",
+    "data": [
+      {
+        "text": "two",
+        "alias": "aantalover",
+        "meta": "@aantalover",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b338e4a5-93f0-4a62-aca0-0ed69d959e5d",
+    "data": [
+      {
+        "text": "2",
+        "alias": "aantalover",
+        "meta": "@aantalover",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f2e4d2c-2e17-4032-9e78-fa21a781fe9d",
+    "data": [
+      {
+        "text": "twee",
+        "alias": "aantalover",
+        "meta": "@aantalover",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "id": "47c1a737-2266-41d4-a77e-2f7ca3deb13d",
+  "name": "2.1 niet klaar",
+  "auto": true,
+  "contexts": [
+    "gevraagd-zit-lezer-klaar"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gevraagd-zit-lezer-klaar",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "zoek maar een rustige plek"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

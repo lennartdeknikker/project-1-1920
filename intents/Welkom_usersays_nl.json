@@ -1,0 +1,110 @@
+[
+  {
+    "id": "a2230534-8070-4295-8da0-652702750422",
+    "data": [
+      {
+        "text": "hé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a87a2dd9-59f7-4b6c-a786-f9f4b367ee6c",
+    "data": [
+      {
+        "text": "hoi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16e615aa-cafb-4675-bc87-d5398b9db15b",
+    "data": [
+      {
+        "text": "hé hoi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a4518ab-3590-4eee-92a9-e30df462e434",
+    "data": [
+      {
+        "text": "hé hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c05140bb-67be-419c-89f5-7c2e425ce6f0",
+    "data": [
+      {
+        "text": "gegroet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d3c7b5f4-dc5f-4709-ab33-f672cc72d023",
+    "data": [
+      {
+        "text": "lang niet gezien",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a02f527b-5e63-48f7-af2d-1e68e7779c14",
+    "data": [
+      {
+        "text": "goeiedag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c027dcb9-f5c5-48d9-a902-fd2ebd773cf9",
+    "data": [
+      {
+        "text": "goedendag",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f14bb24-b2e8-4e12-ac04-45af85b163bb",
+    "data": [
+      {
+        "text": "hallo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

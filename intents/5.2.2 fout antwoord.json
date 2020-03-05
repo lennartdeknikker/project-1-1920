@@ -1,0 +1,48 @@
+{
+  "id": "b19f59c3-efe4-4717-9413-507c70cadc2c",
+  "name": "5.2.2 fout antwoord",
+  "auto": true,
+  "contexts": [
+    "gevraagd-tweede-keer-hoeveel-brieven"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gevraagd-welke-spullen-meer",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eTel maar met mij mee!\u003cbreak time\u003d\"1s\"/\u003e Ik zie 1,\u003cbreak time\u003d\"1s\"/\u003e 2,\u003cbreak time\u003d\"1s\"/\u003e 3 brieven. \u003cbreak time\u003d\"1s\"/\u003eEr liggen drie brieven op de tafel van Beer. \u003cbreak time\u003d\"1s\"/\u003eEr staan nog meer spullen op de tafel van Beer. Welke spullen zie je?\u003c/speak\u003e",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Tel maar met mij mee! Ik zie 1, 2, 3 brieven. Er liggen drie brieven op de tafel van Beer. Er staan nog meer spullen op de tafel van Beer. Welke spullen zie je?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

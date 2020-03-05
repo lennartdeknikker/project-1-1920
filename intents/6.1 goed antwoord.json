@@ -1,0 +1,61 @@
+{
+  "id": "5925bd90-6129-4e01-ab55-7a08b1205e23",
+  "name": "6.1 goed antwoord",
+  "auto": true,
+  "contexts": [
+    "gevraagd-welke-spullen-meer",
+    "naam"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gevraagd-van-wie-eerste-brief",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "naam",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8647cd28-9ba1-4baf-81ec-388f872ac57a",
+          "required": false,
+          "dataType": "@tafelspullen",
+          "name": "tafelspullen",
+          "value": "$tafelspullen",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003e\nGoed gezien hoor!  Er staat inderdaad $tafelspullen op tafel. \n\u003caudio src\u003d\"https://actions.google.com/sounds/v1/foley/walk_on_gravel.ogg\"\u003e\u003c/audio\u003e\nHoor je dat? \u003cbreak time\u003d\"1s\"/\u003e\nHet zijn voetstappen van Beer. Hij gaat de eerste brief wegbrengen. \u003cbreak time\u003d\"1s\"/\u003e #naam.name, maak het deurtje maar open. \u003cbreak time\u003d\"2s\"/\u003eKan jij zien voor wie de eerste brief is?\n\u003c/speak\u003e",
+          "displayText": ""
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

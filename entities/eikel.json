@@ -1,0 +1,9 @@
+{
+  "id": "b3225ded-aeb9-4989-969d-41cf34355f85",
+  "name": "eikel",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,72 @@
+{
+  "id": "d3dc94ff-0fb9-40e8-973e-72bd43dd2476",
+  "name": "2.2 wel klaar",
+  "auto": true,
+  "contexts": [
+    "gevraagd-zit-lezer-klaar"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gevraagd-wat-doet-beer",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "naam",
+          "parameters": {},
+          "lifespan": 100
+        }
+      ],
+      "parameters": [
+        {
+          "id": "88f7220b-dcdd-4d0d-8d3d-d1d5a4851581",
+          "required": true,
+          "dataType": "@naam",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "nl",
+              "value": "Kun je je naam noemen?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003e Hey #gevraagd-zit-lezer-klaar.name \u003cbreak time\u003d\"1s\"/\u003e Wat denk je dat beer aan het doen is? \u003c/speak\u003e",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Hey #gevraagd-zit-lezer-klaar.name  Wat denk je dat beer aan het doen is?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

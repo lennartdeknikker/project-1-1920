@@ -1,0 +1,32 @@
+[
+  {
+    "value": "een foto",
+    "synonyms": [
+      "foto",
+      "foto\u0027s",
+      "fotolijst",
+      "lijst",
+      "lijstje"
+    ]
+  },
+  {
+    "value": "bloemen",
+    "synonyms": [
+      "bloemen",
+      "bloem",
+      "bloemetje",
+      "plant",
+      "plantje",
+      "planten"
+    ]
+  },
+  {
+    "value": "een inktpot",
+    "synonyms": [
+      "inktpot",
+      "inkt",
+      "potje",
+      "pot"
+    ]
+  }
+]

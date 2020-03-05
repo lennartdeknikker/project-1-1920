@@ -1,0 +1,221 @@
+[
+  {
+    "id": "ab1ec59f-499d-46de-af58-748df20ed4ed",
+    "data": [
+      {
+        "text": "hij eet ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "noot",
+        "alias": "eikel",
+        "meta": "@eikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72e10bdc-d56e-4a4e-ad55-f7cd96a9841f",
+    "data": [
+      {
+        "text": "het is ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "noot",
+        "alias": "eikel",
+        "meta": "@eikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec5f33d3-5839-4813-ba57-6485d8b9cdd6",
+    "data": [
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " eekhoorn werkt ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nootje",
+        "alias": "eikel",
+        "meta": "@eikel",
+        "userDefined": false
+      },
+      {
+        "text": " naar binnen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a4a862a-ea8d-4e39-a51f-6a3d819a1499",
+    "data": [
+      {
+        "text": "de eekhoorn",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " eet ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "nootje",
+        "alias": "eikel",
+        "meta": "@eikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47fef298-89b6-478f-8b0f-1ba09b3611af",
+    "data": [
+      {
+        "text": "de",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " eekhoorn is ",
+        "userDefined": false
+      },
+      {
+        "text": "een",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "eikel",
+        "alias": "eikel",
+        "meta": "@eikel",
+        "userDefined": false
+      },
+      {
+        "text": " aan ",
+        "userDefined": false
+      },
+      {
+        "text": "het eten",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63cac684-c683-4439-bc25-ea1d00baa7c6",
+    "data": [
+      {
+        "text": "nootje",
+        "alias": "eikel",
+        "meta": "@eikel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c18204a9-178f-4fbf-b254-dd221182a009",
+    "data": [
+      {
+        "text": "eikeltje",
+        "alias": "eikel",
+        "meta": "@eikel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d01d2565-8971-40f4-af3a-aaf6229143e5",
+    "data": [
+      {
+        "text": "eikel",
+        "alias": "eikel",
+        "meta": "@eikel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91fde3e5-2c1d-4d2b-b8d4-15e7d4d06f0d",
+    "data": [
+      {
+        "text": "noot",
+        "alias": "eikel",
+        "meta": "@eikel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

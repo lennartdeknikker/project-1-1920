@@ -1,0 +1,61 @@
+{
+  "id": "81c914b9-bcdf-4c6e-ba3e-37bd46201533",
+  "name": "3.1 schrijven",
+  "auto": true,
+  "contexts": [
+    "gevraagd-wat-doet-beer"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "gevraagd-wat-voor-brieven",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4a46416f-eaeb-46cd-9d85-b982bc86877f",
+          "required": false,
+          "dataType": "@schrijven",
+          "name": "schrijven",
+          "value": "$schrijven",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003e Dat heb je goed gezien #naam.name! Beer is brieven aan het schrijven. \u003cbreak time\u003d\"1s\"/\u003e Wat voor brieven denk je dat het zijn? \u003c/speak\u003e",
+          "displayText": ""
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Dat heb je goed gezien #gevraagd-wat-doet-beer.name! Beer is brieven aan het schrijven. Wat voor brieven denk je dat het zijn?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

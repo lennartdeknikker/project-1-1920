@@ -1,0 +1,55 @@
+{
+  "id": "219201aa-41ce-45ae-a6f3-951d74576f5b",
+  "name": "Welkom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "gevraagd-zit-lezer-klaar",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "nl",
+          "condition": "",
+          "title": "OBA Voorleeshulp",
+          "image": {
+            "url": "https://www.oba.nl/dam/OBA%20huisstijl%20en%20logo/oba_logo_kort_roodh.jpg",
+            "accessibilityText": "logo oba"
+          }
+        },
+        {
+          "type": 0,
+          "lang": "nl",
+          "condition": "",
+          "speech": "Zit je er klaar voor? Wat is je naam?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "823b0646-08c5-4279-af59-878e34bb2f3e",
+    "data": [
+      {
+        "text": "inktpot",
+        "alias": "tafelspullen",
+        "meta": "@tafelspullen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4d49e3d7-4fbb-44f6-9c80-ec9b3623e64c",
+    "data": [
+      {
+        "text": "foto",
+        "alias": "tafelspullen",
+        "meta": "@tafelspullen",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b5021707-2cfc-4f73-9135-9f2fc81a6e8b",
+    "data": [
+      {
+        "text": "bloemen",
+        "alias": "tafelspullen",
+        "meta": "@tafelspullen",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
