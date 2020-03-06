@@ -13,6 +13,9 @@ This repository contains our application built for the [OBA (Amsterdam Public Li
 If you'd like to try our prototype, we kindly ask you to create a new issue in this repo with a legitimate gmail address.
 We'll look into it and add you as a viewer to the project.
 
+## Wiki
+For more information on our proces [wiki](https://github.com/lennartdeknikker/project-1-1920/wiki)
+
 ## References
 [Dialogflow basics](https://cloud.google.com/dialogflow/docs/basics)
 
