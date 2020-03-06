@@ -26,6 +26,7 @@ We'll look into it and add you as a viewer to the project.
 ### Logic and programming
 - [Ramon96](https://github.com/Ramon96)
 - [Tomas S](https://github.com/TomasS666)
+- [lennartdeknikker](https://github.com/lennartdeknikker)
 
 ## Acknowledgements
 Thanks To Yuri Westplat for managing our teams.
