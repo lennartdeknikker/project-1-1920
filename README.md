@@ -16,3 +16,23 @@ This repository contains our application built for the [OBA (Amsterdam Public Li
 
 If you'd like to try our prototype, we kindly ask you to create a new issue in this repo with a legitimate gmail address.
 We'll look into it and add you as a viewer to the project.
+
+## References
+
+[Dialogflow basics](https://cloud.google.com/dialogflow/docs/basics)
+
+## Collaborators
+
+### Concept and design
+
+- Lars Ruijs
+- Youri Stil
+
+### Logic and programming
+
+- [Ramon96](https://github.com/Ramon96)
+- [Tomas S](https://github.com/TomasS666)
+
+## Acknowledgements
+
+Thanks To Youri for guidance, mediation and tips.
