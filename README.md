@@ -26,4 +26,4 @@ We'll look into it and add you as a viewer to the project.
 - [Tomas S](https://github.com/TomasS666)
 
 ## Acknowledgements
-Thanks To Youri for managing our teams.
+Thanks To Yuri Westplat for managing our teams.
