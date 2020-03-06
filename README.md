@@ -1,6 +1,8 @@
 # OBA Application
 This repository contains our voice assistant application built for the [OBA (Amsterdam Public Library)](https://www.oba.nl/). It's a voice guided assistant to help parents in the Netherlands with reading to their children when they don't speak Dutch as their first language. Since it's important in language development for parents to read to their children, we are hoping to make a difference here.
 
+![screenshot](https://github.com/lennartdeknikker/project-1-1920/blob/master/wiki-resources/screenshot%20oba%20voorleeshulp.png)
+
 ## Current status
 This first prototype goes as far as guiding parents and children through the first two pages of the child`s book "Brieven van Beer." This can now be used by the designers to bring to their test subjects to provide feedback for possible further development.
 
