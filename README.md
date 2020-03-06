@@ -19,6 +19,13 @@ This repository contains our application built for the [OBA (Amsterdam Public Li
 If you'd like to try our prototype, we kindly ask you to create a new issue in this repo with a legitimate gmail address.
 We'll look into it and add you as a viewer to the project.
 
+## Privacy regulations Google
+More information can be found in their [Privacy notice for childrens features](https://assistant.google.com/privacy-notice-childrens-features/)
+
+Before releasing an application like this and having it available to download or use from the Google Assistant you would have to agree to the [U.S. Children’s Online Privacy and Protection Act (COPPA)](https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children's-privacy). As well as the [E.U. General Data Protection Regulation (GDPR)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679).
+Google also has their own rules in place with their For Families program which sets some [requirements](https://developers.google.com/assistant/console/policies/general-policies#actions_for_families) next to also agreeing with their regular [Terms of Service](https://developers.google.com/assistant/console/policies/terms-of-service) and [addendum](https://developers.google.com/assistant/console/policies/actions-for-families-addendum) for the For Families program.
+So it's definitely not easy releasing something on that platform thanks to Google's own Terms of Service, United States and European Union laws and regulations (next to also agreeing to not breaking any rule or law within your own country or any country you're in or releasing in.).
+
 ## Wiki
 For more information on our proces [wiki](https://github.com/lennartdeknikker/project-1-1920/wiki).
 
