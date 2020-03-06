@@ -14,7 +14,7 @@ If you'd like to try our prototype, we kindly ask you to create a new issue in t
 We'll look into it and add you as a viewer to the project.
 
 ## Wiki
-For more information on our proces [wiki](https://github.com/lennartdeknikker/project-1-1920/wiki)
+For more information on our proces [wiki](https://github.com/lennartdeknikker/project-1-1920/wiki).
 
 ## References
 [Dialogflow basics](https://cloud.google.com/dialogflow/docs/basics)
